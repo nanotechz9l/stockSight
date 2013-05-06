@@ -83,6 +83,7 @@ CSCO's last trade was - $CSCO (an increase of +0.10)
 * 04/06/2013 - Updated code 
 
 ## To Do
+* "Customizable" streaming ticker (colorized live feed of High's/Low's)
 * Possible GUI interface in the future
 * Extend app to keep flatfile, or .csv db of interesting symbols/tickers
 * Implement graph, and searchable database functionality
