@@ -6,7 +6,8 @@ A simple stock symbol/ticker observer.
 
 ## Pre Reqs
 
-You *MUST install the rainbow gem for the pretty colorized output seen above:
+You *MUST install the rainbow gem for pretty colorized output. Rainbow gem functionality 
+has not been implemented in v 0.0.1 yet, so dont worry about it. Look for it in v 0.0.2.
 
 	gem install rainbow
 	
